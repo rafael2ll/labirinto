@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/Trabalho_Full.dir/main.c.o CMakeFiles/Trabalho_Full.dir/labSolver.c.o CMakeFiles/Trabalho_Full.dir/lista.c.o CMakeFiles/Trabalho_Full.dir/pilha.c.o CMakeFiles/Trabalho_Full.dir/labirinto.c.o  -o Trabalho_Full -lm 
