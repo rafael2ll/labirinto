@@ -1,0 +1,3 @@
+/media/rafael/Projetos/BCC/AED/Trabalho Full/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/rafael/Projetos/BCC/AED/Trabalho Full/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/rafael/Projetos/BCC/AED/Trabalho Full/cmake-build-debug/CMakeFiles/Trabalho_Full.dir
